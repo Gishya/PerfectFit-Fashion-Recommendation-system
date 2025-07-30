@@ -1,0 +1,453 @@
+{
+  "dresses": [
+    {
+      "Occasion": "Wedding",
+      "Skin Tone": "Fair",
+      "Body Shape": "Rectangle",
+      "Dress Name": "Halterneck maxi dress",
+      "Image name": "1halterneck maxi dress.jpeg"
+    },
+    {
+      "Occasion": "Wedding",
+      "Skin Tone": "Fair",
+      "Body Shape": "Triangle",
+      "Dress Name": "offshoulder maxi dress",
+      "Image name": "2offshoulder maxi dress.jpeg"
+    },
+    {
+      "Occasion": "Wedding",
+      "Skin Tone": "Fair",
+      "Body Shape": "Hourglass",
+      "Dress Name": "3white gown",
+      "Image name": "3white gown.jpeg"
+    },
+    {
+      "Occasion": "Wedding",
+      "Skin Tone": "Medium",
+      "Body Shape": "Rectangle",
+      "Dress Name": "4pastel pink saree",
+      "Image name": "4pastel pink saree.jpeg"
+    },
+    {
+      "Occasion": "Wedding",
+      "Skin Tone": "Medium",
+      "Body Shape": "Triangle",
+      "Dress Name": "5saree lehenga",
+      "Image name": "5saree lehenga.jpeg"
+    },
+    {
+      "Occasion": "Wedding",
+      "Skin Tone": "Medium",
+      "Body Shape": "Hourglass",
+      "Dress Name": "6one shoulder maxi dress",
+      "Image name": "6one shoulder maxi dress.jpeg"
+    },
+
+    {
+      "Occasion": "Wedding",
+      "Skin Tone": "Dark",
+      "Body Shape": "Rectangle",
+      "Dress Name": "7strap dress",
+      "Image name": "7strap dress.jpeg"
+    },
+    {
+      "Occasion": "Wedding",
+      "Skin Tone": "Dark",
+      "Body Shape": "Triangle",
+      "Dress Name": "8dropped neck maxi",
+      "Image name": "8dropped neck maxi.jpeg"
+    },
+    {
+      "Occasion": "Wedding",
+      "Skin Tone": "Dark",
+      "Body Shape": "Hourglass",
+      "Dress Name": "9corset dress",
+      "Image name": "9corset dress.jpeg"
+    },
+    {
+      "Occasion": "Wedding",
+      "Skin Tone": "Olive",
+      "Body Shape": "Rectangle",
+      "Dress Name": "10lehenga",
+      "Image name": "10lehenga.jpeg"
+    },
+    {
+      "Occasion": "Wedding",
+      "Skin Tone": "Olive",
+      "Body Shape": "Triangle",
+      "Dress Name": "11long sleeve lehenga",
+      "Image name": "11long sleeve lehenga.jpeg"
+    },
+    {
+      "Occasion": "Wedding",
+      "Skin Tone": "Olive",
+      "Body Shape": "Hourglass",
+      "Dress Name": "12Ribbed Waist-Cinch Midi Dress",
+      "Image name": "12Ribbed Waist-Cinch Midi Dress.jpg"
+    },
+    {
+      "Occasion": "Party",
+      "Skin Tone": "Fair",
+      "Body Shape": "Rectangle",
+      "Dress Name": "13mini dress",
+      "Image name": "13mini dress.jpeg"
+    },
+    {
+      "Occasion": "Party",
+      "Skin Tone": "Fair",
+      "Body Shape": "Triangle",
+      "Dress Name": "14skirt and blouse",
+      "Image name": "14skirt and blouse.jpeg"
+    },
+    {
+      "Occasion": "Party",
+      "Skin Tone": "Fair",
+      "Body Shape": "Hourglass",
+      "Dress Name": "15Midnight Asymmetrical Slit Bodycon Dress ",
+      "Image name": "15Midnight Asymmetrical Slit Bodycon Dress.jpg"
+    },
+
+     
+    {
+      "Occasion": "Party",
+      "Skin Tone": "Medium",
+      "Body Shape": "Rectangle",
+      "Dress Name": "16sleeveless mini dress",
+      "Image name": "16sleeveless mini dress.jpeg"
+    },
+    {
+      "Occasion": "Party",
+      "Skin Tone": "Medium",
+      "Body Shape": "Triangle",
+      "Dress Name": "17top and pant",
+      "Image name": "17top and pant.jpeg"
+    },
+    {
+      "Occasion": "Party",
+      "Skin Tone": "Medium",
+      "Body Shape": "Hourglass",
+      "Dress Name": "18mini dress black",
+      "Image name": "18mini dress black.jpeg"
+    },
+    {
+      "Occasion": "Party",
+      "Skin Tone": "Dark",
+      "Body Shape": "Rectangle",
+      "Dress Name": "19top and short",
+      "Image name": "19top and short.jpeg"
+    },
+    {
+      "Occasion": "Party",
+      "Skin Tone": "Dark",
+      "Body Shape": "Triangle",
+      "Dress Name": "20top and pant",
+      "Image name": "20top and pant.jpeg"
+    },
+    {
+      "Occasion": "Party",
+      "Skin Tone": "Dark",
+      "Body Shape": "Hourglass",
+      "Dress Name": "21skirt and top",
+      "Image name": "21skirt and top...jpeg"
+    },
+    {
+      "Occasion": "Party",
+      "Skin Tone": "Olive",
+      "Body Shape": "Rectangle",
+      "Dress Name": "22front slit pant and top",
+      "Image name": "22front slit pant and top.jpeg"
+    },
+    {
+      "Occasion": "Party",
+      "Skin Tone": "Olive",
+      "Body Shape": "Triangle",
+      "Dress Name": "23corset and pant",
+      "Image name": "23corset and pant.jpeg"
+    },
+    {
+      "Occasion": "Party",
+      "Skin Tone": "Olive",
+      "Body Shape": "Hourglass",
+      "Dress Name": "24short party dress",
+      "Image name": "24short party dress.jpeg"
+    },
+    {
+      "Occasion": "Casual",
+      "Skin Tone": "Fair",
+      "Body Shape": "Rectangle",
+      "Dress Name": "25frill dress",
+      "Image name": "25frill dress.jpeg"
+    },
+    {
+      "Occasion": "Casual",
+      "Skin Tone": "Fair",
+      "Body Shape": "Triangle",
+      "Dress Name": "26t-shirt and skirt",
+      "Image name": "26t-shirt and skirt.jpeg"
+    },
+    {
+      "Occasion": "Casual",
+      "Skin Tone": "Fair",
+      "Body Shape": "Hourglass",
+      "Dress Name": "27short and top",
+      "Image name": "27short and top.jpeg"
+    },
+    {
+      "Occasion": "Casual",
+      "Skin Tone": "Medium",
+      "Body Shape": "Rectangle",
+      "Dress Name": "28top and skirt",
+      "Image name": "28top and skirt.jpeg"
+    },
+    {
+      "Occasion": "Casual",
+      "Skin Tone": "Medium",
+      "Body Shape": "Triangle",
+      "Dress Name": "29pant and top",
+      "Image name": "29pant and top.jpeg"
+    },
+    {
+      "Occasion": "Casual",
+      "Skin Tone": "Medium",
+      "Body Shape": "Hourglass",
+      "Dress Name": "30mini skirt, top and jacket",
+      "Image name": "30mini skirt, top and jacket.jpeg"
+    },
+    {
+      "Occasion": "Casual",
+      "Skin Tone": "Dark",
+      "Body Shape": "Rectangle",
+      "Dress Name": "31long sleeve shirt and pant",
+      "Image name": "31long sleeve shirt and pant.jpeg"
+    },
+    {
+      "Occasion": "Casual",
+      "Skin Tone": "Dark",
+      "Body Shape": "Triangle",
+      "Dress Name": "32t-shirt and pant",
+      "Image name": "32t-shirt and pant.jpeg"
+    },
+    {
+      "Occasion": "Casual",
+      "Skin Tone": "Dark",
+      "Body Shape": "Hourglass",
+      "Dress Name": "33floral dress",
+      "Image name": "33floral dress.jpeg"
+    },
+    {
+      "Occasion": "Casual",
+      "Skin Tone": "Olive",
+      "Body Shape": "Rectangle",
+      "Dress Name": "34one shoulder top and pant",
+      "Image name": "34one shoulder top and pant.jpeg"
+    },
+    {
+      "Occasion": "Casual",
+      "Skin Tone": "Olive",
+      "Body Shape": "Triangle",
+      "Dress Name": "35long sleeve shirt and denim trouser",
+      "Image name": "35long sleeve shirt and denim trouser.jpeg"
+    },
+    {
+      "Occasion": "Casual",
+      "Skin Tone": "Olive",
+      "Body Shape": "Hourglass",
+      "Dress Name": "36top and denim trouser",
+      "Image name": "36top and denim trouser.jpeg"
+    },
+    {
+      "Occasion": "Formal",
+      "Skin Tone": "Fair",
+      "Body Shape": "Rectangle",
+      "Dress Name": "37top and pant",
+      "Image name": "37top and pant.jpeg"
+    },
+    
+    {
+      "Occasion": "Formal",
+      "Skin Tone": "Fair",
+      "Body Shape": "Triangle",
+      "Dress Name": "38blue work dress",
+      "Image name": "38blue work dress.jpeg"
+    },
+
+    {
+      "Occasion": "Formal",
+      "Skin Tone": "Fair",
+      "Body Shape": "Hourglass",
+      "Dress Name": "39skirt and top",
+      "Image name": "39skirt and top.jpeg"
+    },
+
+    {
+      "Occasion": "Formal",
+      "Skin Tone": "Medium",
+      "Body Shape": "Rectangle",
+      "Dress Name": "40skirt and blouse",
+      "Image name": "40skirt and blouse.jpeg"
+    },
+
+    {
+      "Occasion": "Formal",
+      "Skin Tone": "Medium",
+      "Body Shape": "Triangle",
+      "Dress Name": "41long sleeve top and skirt",
+      "Image name": "41long sleeve top and skirt.jpeg"
+    },
+
+    {
+      "Occasion": "Formal",
+      "Skin Tone": "Medium",
+      "Body Shape": "Hourglass",
+      "Dress Name": "42blazer and pant",
+      "Image name": "42blazer and pant.jpeg"
+    },
+
+    {
+      "Occasion": "Formal",
+      "Skin Tone": "Dark",
+      "Body Shape": "Rectangle",
+      "Dress Name": "43blazer and pant",
+      "Image name": "43blazer and pant.jpeg"
+    },
+
+    {
+      "Occasion": "Formal",
+      "Skin Tone": "Dark",
+      "Body Shape": "Triangle",
+      "Dress Name": "44.short dress",
+      "Image name": "44.short dress..jpeg"
+    },
+
+    {
+      "Occasion": "Formal",
+      "Skin Tone": "Dark",
+      "Body Shape": "Hourglass",
+      "Dress Name": "45dress and blazer",
+      "Image name": "45dress and blazer.jpeg"
+    },
+
+    {
+      "Occasion": "Formal",
+      "Skin Tone": "Olive",
+      "Body Shape": "Rectangle",
+      "Dress Name": "46sleeveless top and pant",
+      "Image name": "46sleeveless top and pant.jpeg"
+    },
+
+    {
+      "Occasion": "Formal",
+      "Skin Tone": "Olive",
+      "Body Shape": "Triangle",
+      "Dress Name": "47linen dress",
+      "Image name": "47linen dress.jpeg"
+    },
+
+    {
+      "Occasion": "Formal",
+      "Skin Tone": "Olive",
+      "Body Shape": "Hourglass",
+      "Dress Name": "48black dress",
+      "Image name": "48black dress.jpeg"
+    },
+
+    {
+      "Occasion": "Sports Wear",
+      "Skin Tone": "Fair",
+      "Body Shape": "Rectangle",
+      "Dress Name": "49jacket and short",
+      "Image name": "49jacket and short.jpeg"
+    },
+    {
+      "Occasion": "Sports Wear",
+      "Skin Tone": "Fair",
+      "Body Shape": "Triangle",
+      "Dress Name": "50sports bra and legging",
+      "Image name": "50sports bra and legging.jpeg"
+    },
+    {
+      "Occasion": "Sports Wear",
+      "Skin Tone": "Fair",
+      "Body Shape": "Hourglass",
+      "Dress Name": "51sports bra and legging",
+      "Image name": "51sports bra and legging.jpeg"
+    },
+    {
+      "Occasion": "Sports Wear",
+      "Skin Tone": "Medium",
+      "Body Shape": "Rectangle",
+      "Dress Name": "52skort and top",
+      "Image name": "52skort and top.jpeg"
+    },
+    {
+      "Occasion": "Sports Wear",
+      "Skin Tone": "Medium",
+      "Body Shape": "Triangle",
+      "Dress Name": "53short and bra top",
+      "Image name": "53short and bra top...jpeg"
+    },
+    {
+      "Occasion": "Sports Wear",
+      "Skin Tone": "Medium",
+      "Body Shape": "Hourglass",
+      "Dress Name": "54 short and bra top",
+      "Image name": "54 short and bra top...jpeg"
+    },
+    {
+      "Occasion": "Sports Wear",
+      "Skin Tone": "Dark",
+      "Body Shape": "Rectangle",
+      "Dress Name": "55sports bra and legging",
+      "Image name": "55sports bra and legging.jpeg"
+    },
+    {
+      "Occasion": "Sports Wear",
+      "Skin Tone": "Dark",
+      "Body Shape": "Triangle",
+      "Dress Name": "56jacket and legging",
+      "Image name": "56jacket and legging.jpeg"
+    },
+    {
+      "Occasion": "Sports Wear",
+      "Skin Tone": "Dark",
+      "Body Shape": "Hourglass",
+      "Dress Name": "57top and legging",
+      "Image name": "57top and legging.jpeg"
+    },
+    {
+      "Occasion": "Sports Wear",
+      "Skin Tone": "Olive",
+      "Body Shape": "Rectangle",
+      "Dress Name": "58bra top and short",
+      "Image name": "58bra top and short.jpeg"
+    },
+    {
+      "Occasion": "Sports Wear",
+      "Skin Tone": "Olive",
+      "Body Shape": "Triangle",
+      "Dress Name": "59bra top and short",
+      "Image name": "59bra top and short.jpeg"
+    },
+    {
+      "Occasion": "Sports Wear",
+      "Skin Tone": "Olive",
+      "Body Shape": "Hourglass",
+      "Dress Name": "60sports bra and legging",
+      "Image name": "60sports bra and legging.jpeg"
+    },
+    {
+      "Occasion": "Wedding",
+      "Skin Tone": "Medium",
+      "Body Shape": "Apple",
+      "Dress Name": "Empire Waist Chiffon A-Line Gown",
+      "Image name": "Empire Waist Chiffon A-Line Gown.jpeg"
+    },
+  {
+      "Occasion": "Wedding",
+      "Skin Tone": "Fair",
+      "Body Shape": "Inverted ",
+      "Dress Name": "A line Scoop Neck Dress ",
+      "Image name": "A line Scoop Neck Dress.jpeg"
+    }  
+  ]
+}

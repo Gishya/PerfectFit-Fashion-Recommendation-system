@@ -1,0 +1,4 @@
+      {skinTone && <p className="text-gray-700 mt-2">Skin Tone: {skinTone}</p>}
+      {predictedShape && <p className="text-gray-700 mt-2">Predicted Shape: {predictedShape}</p>}
+	  
+	  
